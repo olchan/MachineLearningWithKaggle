@@ -4,3 +4,5 @@
 - https://github.com/wikibook/pymlrev2 : 예제 코드
 
 - Python for DataScience : https://wikidocs.net/151412
+- Seaborn 사용법 :  https://www.snugarchive.com/blog/python-data-visualization-seaborn-basic/
+  
