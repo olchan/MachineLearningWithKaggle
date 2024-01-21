@@ -3,6 +3,7 @@
 ![image](https://github.com/IM2COLD/MachineLearningWithKaggle/assets/114397640/3ffa50c4-affc-4330-8156-d0b96ac41c69)
 - https://github.com/wikibook/pymlrev2 : 예제 코드
 
+- Colab에서 GPU, TPU 사용하기 : https://wikidocs.net/119990
 - Python for DataScience : https://wikidocs.net/151412
 - Seaborn 사용법
 - https://www.snugarchive.com/blog/python-data-visualization-seaborn-basic/
